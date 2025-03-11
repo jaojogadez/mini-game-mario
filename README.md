@@ -5,7 +5,7 @@ Mini jogo do Mário feito com HTML, CSS e JS
 ![Projeto  - Mario](https://github.com/user-attachments/assets/19942eb9-f0c2-445f-be69-0e5761720d34)
 
 
-🔗 [Repositório no GitHub](https://github.com/jaojogadez/mini-game-mario)
+🔗 Acesse o projeto: [https://jaojogadez.github.io/mini-game-mario/](https://jaojogadez.github.io/mini-game-mario/)
 
 ## ⭐ Funcionalidades
 
@@ -85,4 +85,4 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 
 Se tiver dúvidas ou sugestões, entre em contato através do GitHub!
 
-🔗 **Repositório:** [GitHub](https://githug.com/jaojogadez)
+🔗[GitHub](https://githug.com/jaojogadez)
